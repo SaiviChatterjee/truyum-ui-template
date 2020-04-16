@@ -1,0 +1,48 @@
+header {
+  min-height: 3rem;
+  background-color: coral;
+}
+section {
+  margin-bottom: 1rem;
+  min-height: 85vh;
+}
+
+footer {
+  background-color: coral;
+  bottom: 0;
+}
+
+.material-icons {
+  vertical-align: middle;
+}
+.free {
+  background-color: teal;
+  color: white;
+  font-size: small;
+  font-weight: 100;
+}
+.btn-coral {
+  background-color: coral;
+}
+.text-right {
+  text-align: right;
+}
+.card{
+    min-height: 350px;
+}
+.jumbotron{    
+  background: url("https://images.unsplash.com/photo-1525454473724-c6273f88a80d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+  padding-top: 10vh!important;
+  padding-bottom: 15vh!important;
+  padding-left: 10vw;
+}
+.shipping{
+	color:#081b96;
+}
+.delete{
+	color:#A5AAB3;
+}
